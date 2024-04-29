@@ -1,0 +1,71 @@
+/About Me
+
+I'm Yaseen
+
+An aspiring software develeoper and engineer with a passion for learning and problem solving. I love working on various projects and overcoming any hurdles that stand in my way.
+
+I've been a teacher for the past 9 years and counting. One of my favourite aspects of teaching is the learning that I receive from engaging my students. Each one is unique and therefore each student requires a different teaching style.
+
+I find myself having the same joy through coding, each language has its own benefits with a code to crack as they come together.
+
+/Education
+Islamic Studies
+Darun-Na'im Institute
+2014 - 2016 
+(link)
+
+Web Development Bootcamp
+Undemy, Dr. Angela Yu, Developer & Lead Instructor
+April 2024 - Present
+(link)
+
+/Work Exp
+Teacher
+Darun-Na'im Institute
+Jan 2017 - April 2024
+
+Tutor (Self-Employed)
+Qur'an and Islamic Disciplines
+Jan 2016 - Present
+
+Teacher
+Darun-Na'im Academy
+Jan 2022 - Dec 2022
+
+/Skills
+Teaching
+Microsoft Office
+Administration
+HTML
+CSS
+Boostrap
+InDesign
+
+/Languages
+English
+Afrikaans
+Arabic
+
+/Projects
+TinDog
+Darun-Na'im website (Designer + Developer)
+Mondrian
+
+/Hobbies
+Puzzles
+Archery
+Table Tennis
+Gaming
+
+/Contact Me
+email
+
+/Footer
+LinkedIn
+Twitter
+GitHub
+
+copyright
+
+
+
